@@ -10,4 +10,4 @@ Aumentar a minha noção de criação de um projeto de IA + arquitetura e organi
 
 ## Qual linguagem eu pretendo programar? 
 Pretendo ultilizar assembly/C++ com um executavel em python para gerenciar a IA.
-E
+E pretendo usar o Mysql para programar o seu banco de dados.
